@@ -26,7 +26,7 @@ Feature: to test API on reqres
     And match response.data.first_name == 'Tobias'
 
   @negative @get
-  Scenario: failed GET single user details by user id - user not exist
+  Scenario: Failed GET single user details by user id - user not exist
     * def userId = 99
     * def testUrl = baseUrl + '/users/' + userId
     Given url testUrl
