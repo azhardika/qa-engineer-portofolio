@@ -63,5 +63,8 @@ Run the test for specific scenario based on scenario tag
 
 ## Demo
 
-Insert gif or link to demo
+![karate1](https://github.com/user-attachments/assets/9b970d2d-d19b-491c-b00c-1ce8e8c0e8d8)
+![karate2](https://github.com/user-attachments/assets/88f42c2b-f726-416d-a2f1-fc1ea006a626)
+
+
 
