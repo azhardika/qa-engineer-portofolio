@@ -55,5 +55,7 @@ Run for spesific scenario based on tag
 
 ## Demo
 
-Insert gif or link to demo
+![cucumber1](https://github.com/user-attachments/assets/e9b15568-9e85-4451-a62b-725c31e81b9b)
+![cucumber2](https://github.com/user-attachments/assets/a264c9b3-0743-4304-a3da-3edcb01e9611)
+
 
